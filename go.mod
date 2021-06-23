@@ -1,3 +1,3 @@
-module github.com/armedcor/learn_GoLang
+module github.com/armedcor/go-user-api
 
 go 1.16

@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/armedcor/learn_GoLang/models"
+	"github.com/armedcor/go-user-api/models"
 )
 
 type userController struct {

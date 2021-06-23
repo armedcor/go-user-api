@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/armedcor/learn_GoLang/controllers"
+	"github.com/armedcor/go-user-api/controllers"
 )
 
 func main() {
