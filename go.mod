@@ -1,3 +1,3 @@
-module github.com/pluralsight/webservice
+module github.com/armedcor/learn_GoLang
 
 go 1.16
